@@ -7,7 +7,7 @@ In diesem GitHub-Repository teile ich Analyse-Skripte,
 Notebooks sowie ausgewählte Projekte und Erfahrungsberichte
 rund um Data Analytics, Data Engineering und KI.
 
-## 🔧 Tech Stack
+## 🔹 Tech Stack
 
 **Sprachen & Tools**
 - SQL (inkl. T-SQL), Python, DAX
@@ -18,15 +18,17 @@ rund um Data Analytics, Data Engineering und KI.
 - Star, Snowflake, Galaxy (analytische Modelle)
 - Data Vault (Core / historisierte DWH-Architektur)
 
-## 📊 Projekte
-👉 Siehe meine Repositories unten 👇
-
-## 📫 Kontakt
-📍 Hamburg  
-📫 How to reach me: see email in profile
-
-
-🔭 Currently working on data analysis notebooks and data modeling examples.
+## 🔹 Projekte
+👉 Siehe meine Repositories unten 👇 
+- (ist noch in Arbeit ...🔧)
+- ...
 🌱 Currently learning advanced data modeling and Python-based analytics.
+
+## 🔹 Kontakt
+📍 Hamburg  
+
+Email: siehe Profil / see email in profile
+
+
 
 
